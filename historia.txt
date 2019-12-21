@@ -10,3 +10,5 @@ Soy Joel Dominguez Merino y tengo 20 años.
 Actualmente estoy en quinto semestre de la carrera de Ing. Sistemas Computacionales...
 
 Realizando cambios y creacion de archivos de html y css
+
+Agregando una nueva linea en historia.txt
