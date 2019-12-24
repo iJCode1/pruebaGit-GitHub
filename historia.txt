@@ -12,3 +12,6 @@ Actualmente estoy en quinto semestre de la carrera de Ing. Sistemas Computaciona
 Realizando cambios y creacion de archivos de html y css
 
 Agregando una nueva linea en historia.txt
+
+esta linea es agregada desde mi computadora Acer y yabhice un git clone en esta nueva!!!!
+PD: Que emocion jejej aunque es dia 23 de diciembre y estoy enfermo de gripa :(
