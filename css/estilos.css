@@ -28,7 +28,6 @@
 .verde{
     text-align: center;
     color: green;
-<<<<<<< HEAD
 }
 
 .titulo{
@@ -37,9 +36,7 @@
     background: #39375b;
     padding: 10px;
     font-size: 25px;
-}
-=======
-    background: lawngreen;
+
 }
 
 .footer{
@@ -49,4 +46,3 @@
     text-align: center;
     padding: 10px 10px;
 }
->>>>>>> footer
