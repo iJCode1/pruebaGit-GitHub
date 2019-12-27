@@ -28,5 +28,12 @@
 .verde{
     text-align: center;
     color: green;
-    background: lawngreen;
+}
+
+.titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #d597ce;
+    background: #39375b;
+    padding: 10px;
+    font-size: 25px;
 }
