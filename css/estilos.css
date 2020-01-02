@@ -50,3 +50,8 @@
 .alinear{
     text-align: center;
 }
+
+.lista{
+    text-align: center;
+    list-style: none;
+}
